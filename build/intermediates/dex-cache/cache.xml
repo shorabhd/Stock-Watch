@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/shorabhd/Shorabh/github/ShorabhStockWatch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/shorabhd/Shorabh/github/ShorabhStockWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dfef4f0c6d79bc6e043146faac1e67018d622d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shorabhd/Shorabh/github/ShorabhStockWatch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0e28a8710e31806136a442d48fd2779b2846b0c">
+        <dex dex="/Users/shorabhd/Shorabh/github/ShorabhStockWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_99a9fadd6886449b63ae9dd33c51af52595755c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/shorabhd/.android/build-cache/020ed3e6121790b7db4074a3a41e059a3e2e0336/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="/Users/shorabhd/Shorabh/github/ShorabhStockWatch/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0320ec4c52180c14ea32a5332d3089ba578cf54/classes.dex" />
+    </item>
+
+</items>
